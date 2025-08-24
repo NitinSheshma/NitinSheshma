@@ -91,15 +91,4 @@ A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**
 
 ---
 
-### ✅ How to use this template
 
-1. Create a new **public** repo named **exactly** `YOUR_USERNAME`.
-2. Add a file named `README.md` and paste this content.
-3. Replace:
-
-   * `YOUR_USERNAME` with your GitHub username.
-   * Social links and email.
-   * Project links under **Featured Projects**.
-4. Commit → Push. Your profile will render this README automatically.
-
-> Tip: Keep sections concise. Update badges/links as you grow.
