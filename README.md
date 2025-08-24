@@ -7,7 +7,7 @@
 A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**.
 
 * 🔭 I’m currently working on: `Interview DSA` · `Java/C++ projects`.
-* 🌱 Learning: **System design basics, Docker, CI/CD**
+* 🌱 Learning: **Data Science,Web Development, DSA,Power BI**
 * 💬 Ask me about: **arrays, recursion, pointers, graphs, hashing**
 * 📫 How to reach me:nitinsheshma52@gmail.com`
 * ⚡ Fun fact: I like solving **100+ day coding streaks** 😄
@@ -54,13 +54,6 @@ A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**
 
 
 ---
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitinSheshma&theme=radical&no-frame=true&no-bg=true&column=7"/>
-</p>
-
-
 ---
 
 ## 💬 Random Dev Quote
@@ -80,9 +73,9 @@ A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**
 
 <!-- Pin repositories from your profile (UI → Customize your pins). Add short bullets here linking to them. -->
 
-* [Project 1](https://github.com/NitinSheshma/REPO1) – DSA patterns in C++
-* [Project 2](https://github.com/YOUR_USERNAME/REPO2) – Java OOP mini‑apps
-* [Project 3](https://github.com/YOUR_USERNAME/REPO3) – OCI Data Science demo
+* [Project 1](https://github.com/NitinSheshma/Mental-Health-Simulator) – Mental Health Simulator
+* [Project 2](https://github.com/NitinSheshma/Fitness-Tracking-CSE326) – Fitness tracking 
+* [Project 3](https://github.com/NitinSheshma/Security-Vulnerability-Detection-Framework) – Security Vulnerability
 
 ---
 ## Animated Text
