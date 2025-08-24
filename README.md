@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Nitin%20Sheshma%20👋&fontSize=40&fontColor=fff)
+
 # 👋 Hi, I'm **Nitin Sheshma**
 
 <!-- Replace "Your Name" everywhere. Keep this README in a repo named exactly your GitHub username (e.g., nitinsheshma/nitinsheshma). -->
@@ -28,15 +30,12 @@ A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**
 
 <!-- Add/remove icons from https://github.com/devicons/devicon -->
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+<h2 align="center">🚀 Tech Stack</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
 </p>
 
 ---
@@ -45,33 +44,35 @@ A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**
 
 <!-- Replace YOUR_USERNAME with your GitHub username everywhere below -->
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitinSheshma&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinSheshma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NitinSheshma&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=NitinSheshma\&show_icons=true\&hide_title=true\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinSheshma\&layout=compact\&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak](https://streak-stats.demolab.com?user=NitinSheshma\&hide_border=true)](https://streak-stats.demolab.com)
-
-</div>
 
 ---
 
 ## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NitinSheshma&theme=radical&no-frame=true&no-bg=true&column=7"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NitinSheshma\&theme=onedark\&no-frame=true\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 
 ## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NitinSheshma\&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nitin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitinSheshma&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -84,6 +85,11 @@ A developer focused on **DSA (C++)**, ** Data Science**, and **Web development**
 * [Project 3](https://github.com/YOUR_USERNAME/REPO3) – OCI Data Science demo
 
 ---
+## Animated Text
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
+
 
 ## 👀 Visitors
 
